@@ -1,4 +1,4 @@
-### Hi there, I'm Toufeeq Kalam 👋
+### Hi, I'm Toufeeq Kalam 👋
 
 #### I'm a senior software engineer, currently focusing on making the world a better place, one line of code at a time.
 
