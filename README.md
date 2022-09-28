@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning more about front-end development frameworks and best practices.
 - 📫 Best way to contact me? info@toufeeqkalam.com
-- ⚡ Fun fact: 
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toufeeqkalam)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufeeqkalam)
