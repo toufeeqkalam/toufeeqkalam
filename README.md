@@ -1,6 +1,6 @@
 ### Hi, I'm Toufeeq Kalam 👋
 
-#### I'm a senior software engineer, currently focusing on making the world a better place, one line of code at a time.
+#### I'm a software engineer, currently focusing on making the world a better place, one line of code at a time.
 
 - 🌱 I’m currently learning more about front-end development frameworks and best practices.
 - 📫 Best way to contact me? toufeeq.kalam@gmail.com
